@@ -1,0 +1,31 @@
+.card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-actions {
+    margin-bottom: 1rem;
+}
+
+.card-button {
+    text-transform: none;
+    font-weight: 600;
+}
+
+.card-content{
+    display: flex;
+    flex-direction: column;
+}
+
+.product-grid{
+    margin-top: 5px !important;
+}
+
+.card-container{
+    height: 100%;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+}
